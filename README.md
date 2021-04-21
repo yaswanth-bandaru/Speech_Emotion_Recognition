@@ -13,3 +13,11 @@
 
 VGG16 with CNN performed best with an accuracy of 75%.
 
+## Classification Report
+
+![Capture](https://user-images.githubusercontent.com/30667531/115498237-d88b3b80-a232-11eb-8496-db58c7ee0c3e.PNG)
+
+## Confusion Matrix
+
+![Capture1](https://user-images.githubusercontent.com/30667531/115498250-e0e37680-a232-11eb-938e-93142d01ec0d.PNG)
+
