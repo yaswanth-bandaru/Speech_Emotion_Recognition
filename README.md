@@ -21,3 +21,10 @@ VGG16 with CNN performed best with an accuracy of 75%.
 
 ![Capture1](https://user-images.githubusercontent.com/30667531/115498250-e0e37680-a232-11eb-938e-93142d01ec0d.PNG)
 
+## References
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196391
+https://zenodo.org/record/1188976#.XeqDKej0mMo
+https://towardsdatascience.com/machine-learning-with-python-classification-complete-tutorial-d2c99dc524ec
+https://medium.com/@tushar.gupta_47854/speech-emotion-detection-74337966cf2
+
